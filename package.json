@@ -1,5 +1,5 @@
 {
-  "name": "simple-scrollbar",
+  "name": "ft-simple-scrollbar",
   "version": "0.2.1",
   "description": "Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices.",
   "main": "simple-scrollbar.js",
